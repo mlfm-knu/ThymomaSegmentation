@@ -1,4 +1,5 @@
-# Thymoma_Segmentation
+![header](https://capsule-render.vercel.app/api?type=slice&text=Thymoma%20Segmentation&fontAlign=70&fontSize=40)
+
 ## Copyright in machine learning and fluid mechanics Lab.
 ## Introduction
 This project is an implementation of [this paper](https://www.sciencedirect.com/science/article/pii/S1746809424005317).
