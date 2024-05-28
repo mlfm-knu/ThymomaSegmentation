@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Thymoma%20Segmentation&fontAlign=70&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Thymoma%20Segmentation&fontAlign=70&fontSize=40)
 
 ## Copyright in machine learning and fluid mechanics Lab.
 ## Introduction
